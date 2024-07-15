@@ -1,6 +1,6 @@
 git clone https://github.com/hiranshree/webtemp1
 cd webtemp1
-echo "webtemp1" > webtemp1.html
+echo "webtemp1" > index.html
 git add --all
 git commit -m "Initial commit"
 git push -u origin main
